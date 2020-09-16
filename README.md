@@ -24,4 +24,5 @@ yarn clean # remove: public/js/compiled
 ## License
 
 MIT License
-Copyright © 2020 Costin Dragoi
+
+Copyright (c) 2020 Dragoi Costin
