@@ -1,3 +1,4 @@
+public/js/compiled
 node_modules/
 .shadow-cljs
-.yarn.lock
+yarn.lock
