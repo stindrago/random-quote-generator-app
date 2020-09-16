@@ -1,28 +1,27 @@
-# {{name}}
+# Random Quote Generator
+
+A random quote generator to tweet.
 
 ## Run
 
 ``` shell
-yarn install
+yarn install # build the website clojurescritp -> javascript
+yarn watch # start server
+```
 
-yarn watch
+## Test
+
+``` shell
+open http://localhost:8700 # open in you favorite broweser
 ```
 
 ## Clean
 
 ``` shell
-yarn clean
-```
-
-## Release
-
-``` shell
-yarn release
+yarn clean # remove: public/js/compiled
 ```
 
 ## License
 
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+MIT License
+Copyright © 2020 Costin Dragoi
