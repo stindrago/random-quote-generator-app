@@ -5,14 +5,14 @@ A random quote generator to tweet.
 ## Run
 
 ``` shell
-yarn install # build the website clojurescritp -> javascript
+yarn install # build the website
 yarn watch # start server
 ```
 
 ## Test
 
 ``` shell
-open http://localhost:8700 # open in you favorite broweser
+open http://localhost:8700 # view the website in your default broweser
 ```
 
 ## Clean
